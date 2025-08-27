@@ -16,7 +16,6 @@
 <h2 id="sobre" align="center">Sobre</h2>
 Projeto da Disciplina de Engenharia de Requisitos do 3º Semestre da Faculdade Impacta.
 <br>
-As tarefas foram realizadas em grupo com 3 integrantes.
 
 <h2 id="grupo" align="center">Integrantes do Grupo 12</h2>
 Erick Xavier Ribeiro<br>
