@@ -11,11 +11,25 @@
     <a href="#grupo">Integrantes do Grupo</a>
 </p>
 
-<h2 id="sobre" align="center">Sobre</h2>
-Projeto da Disciplina de Engenharia de Requisitos do 3º Semestre da Faculdade Impacta.
-<br>
+<h2 id="sobre">📖 Sobre</h2>
+Projeto da Disciplina de Engenharia de Requisitos, ministrada pelo professor Junior Freitas de Amaral na Faculdade Impacta, durante o terceiro semestre do curso Análise e Desenvolvimento de Sistemas cursado no 2º Semestre de 2025. Este projeto tem como foco a aplicação prática das técnicas e ferramentas de aprendidas em sala de aula.
 
-<h2 id="grupo" align="center">Integrantes do Grupo</h2>
+<br>O cenário proposto é o de um estacionamento fictício que enfrenta dificuldades em sua gestão devido ao controle manual de processos.
+<br>Entre os principais problemas identificados estão:
+
+<ul>
+    <li>Falta de controle eficiente da entrada e saída de veículos;
+    <li>Reclamações de clientes sobre danos nos carros, causados pela má distribuição das vagas;
+    <li>Dificuldade dos manobristas em identificar a disponibilidade real de vagas;
+    <li>Suspeita de fraudes em pagamentos e evasão de veículos sem quitação adequada;
+    <li>Recebimentos realizados apenas em espécie, sem relatórios ou rastreabilidade.
+</ul>
+
+Diante desse contexto, o proprietário do estacionamento buscou uma solução tecnológica que permita automatizar e otimizar seus processos, abrangendo controle de acesso, gestão de vagas, registro de pagamentos e emissão de relatórios.
+
+O objetivo deste projeto é especificar os requisitos de um sistema integrado de gestão de estacionamento, apresentando uma solução teórica que atenda às necessidades levantadas.
+
+<h2 id="grupo">👥 Integrantes do Grupo</h2>
 <table align="center">
   <tr>
     <td align="center">
